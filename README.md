@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzmzolqadr
 - 👀 I’m interested in Web development and python!
-- 🌱 I’m currently learning to program with python and Django framework
+- 🌱 I’m currently learning to work with HTML and CSS!
 - 📫 How to reach me via email: mzmzolqadr@gmail.com
 
 <!---
