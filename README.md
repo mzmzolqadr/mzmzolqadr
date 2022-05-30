@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzmzolqadr
 - 👀 I’m interested in Web development and python!
-- 🌱 I’m currently learning to work with HTML and CSS!
+- 🌱 I’m learning React.JS
 - 📫 How to reach me via email: mzmzolghadr@gmail.com
 
 <!---
