@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mzmzolqadr
-- 👀 I’m interested in Web development and python!
-- 🌱 I’m learning React.JS
+- 👋 Hi, I’m Mohammad Zolghadr
+- 👀 I’m interested in Web development, React.Js.
 - 📫 How to reach me via email: mzmzolghadr@gmail.com
 
 <!---
